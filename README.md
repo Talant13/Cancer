@@ -1,3 +1,6 @@
+### https://www.kaggle.com/datasets/tarekmasryo/cancer-risk-factors-dataset/code
+### https://medium.com/@pingsubhak/handling-missing-values-in-dataset-7-methods-that-you-need-to-know-5067d4e32b62
+
 # Cancer
 Cancer analysis
 
